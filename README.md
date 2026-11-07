@@ -2,7 +2,7 @@
 
 **Where crossing one street puts you in a different Sydney.**
 
-Microburbs hackathon, 7 November 2026 · Task 1 (social post) · Jaideep and Durand
+Microburbs hackathon, 7 November 2026 · Task 1 (social post) · Jaideep and Durand.
 
 ## Result
 
